@@ -32,7 +32,8 @@ Constraints:
 Only one valid answer exists.
 */
 
-//Accepted   
+//Accepted   131ms 12.9Mb
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
