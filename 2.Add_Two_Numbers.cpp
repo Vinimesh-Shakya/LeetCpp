@@ -73,7 +73,8 @@ public:
 
 /*
 
-Testcases: 
+Testcases:        0ms     77.17Mb
+
 1. 
     l1 = [2,4,3]
     l2 = [5,6,4]
